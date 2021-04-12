@@ -1,0 +1,40 @@
+
+@import "~bootstrap/scss/functions";
+@import './variables';
+@import '~bootstrap/scss/bootstrap.scss';
+@import './Dashboard';
+.bg-cover{
+  background-size: cover;
+  background-position: center center;
+}
+.h-60{
+  height: 60%;
+}
+.w-60{
+  width: 60%;
+}
+.swiper-container {
+  height: 650px;
+}
+.wrap{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.w-40{
+  width:40%;
+}
+.my-6 {
+  margin: 5rem 0;
+}
+body.modal-open {
+  overflow: auto !important;
+}
+body.modal-open {
+  padding-right: 0px !important;
+}
+@media(max-width:568px){
+  .swiper-container{
+    height:480px;
+  }
+}
