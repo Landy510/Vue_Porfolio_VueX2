@@ -97,4 +97,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 	* 修正SelfProduct.vue的getCart取錯資料的問題，即getCart改成getCartlocal
 	* 刪除不需要的all.js檔案。
 	* 修改在CompanyDetail.vue頁面中的圖片的大小。
+* 2021.04.13 修改進度		
+	* 修改圖片的大小，讓原圖大小大概是呈現畫面的兩倍左右。
 	

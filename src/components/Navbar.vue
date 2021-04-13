@@ -36,14 +36,14 @@
             <div class="px-4">
               <div class="d-flex justify-content-around">
                 <div class="card rounded-0 border-0 mr-3" style="width: 18rem;">
-                  <img class="card-img-top rounded-0" src="https://upload.cc/i1/2021/02/16/XaFwDo.jpg" alt="了解Berserker Fitness圖片">
+                  <img class="card-img-top rounded-0" src="https://i.postimg.cc/hvVNcSkQ/XaFwDo.jpg" alt="了解Berserker Fitness圖片">
                   <div class="card-body p-0 text-center mt-3">
                     <font-awesome-icon :icon="['fas', 'caret-right']" />
                     <router-link to="/Company/CompanyDetail" class="location_search_btn ml-2">了解Berserker Fitness</router-link>
                   </div>
                 </div>
                 <div class="card rounded-0 border-0" style="width: 18rem;">
-                  <img class="card-img-top location_part rounded-0" src="https://upload.cc/i1/2021/02/16/rcGXwH.jpg" alt="了解Berserker Fitness據點查詢圖片">
+                  <img class="card-img-top location_part rounded-0" src="https://i.postimg.cc/DwwpYdwX/rcGXwH.jpg" alt="了解Berserker Fitness據點查詢圖片">
                   <div class="card-body p-0 text-center mt-3">
                     <font-awesome-icon :icon="['fas', 'caret-right']" />
                     <router-link to="/Company/LocationInfo" class="location_search_btn ml-2">Berserker Fitness據點查詢</router-link>

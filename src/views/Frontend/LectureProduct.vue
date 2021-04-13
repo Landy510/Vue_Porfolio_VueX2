@@ -176,7 +176,7 @@ export default {
   border-radius:50px;
 }
 .lecture_banner {
-  background-image: url(https://upload.cc/i1/2021/04/10/dorhHq.jpg);
+  background-image: url(https://i.postimg.cc/52D5qwY1/dorhHq.jpg);
   height: 50vh;
   margin-top: 56px;
   background-size: cover;

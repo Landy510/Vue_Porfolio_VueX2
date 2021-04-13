@@ -111,7 +111,7 @@ export default {
 <style scoped>
 .intro_image{
   height: 650px;
-  background-image:url(https://upload.cc/i1/2021/02/18/6H17VM.jpg);
+  background-image:url(https://i.postimg.cc/43bK7tpW/6H17VM.jpg);
   width:70%;
   position:relative;
 }

@@ -164,9 +164,9 @@ export default {
       status: {
         loadingItem: ''
       },
-      image_website: 'https://upload.cc/i1/2021/03/10/0QKA7j.jpg',
-      image_website1: 'https://upload.cc/i1/2021/02/18/cyrh8S.jpg',
-      image_website2: 'https://upload.cc/i1/2021/03/05/4UWMBe.jpg'
+      image_website: 'https://i.postimg.cc/mg3Z84hD/0QKA7j.jpg',
+      image_website1: 'https://i.postimg.cc/05LJ485d/cyrh8S.jpg',
+      image_website2: 'https://i.postimg.cc/vBCDCzyH/4UWMBe.jpg'
     }
   },
   methods: {
